@@ -1,0 +1,1 @@
+export const baseURL = "https://data-neuron-backend-phi.vercel.app/api";
